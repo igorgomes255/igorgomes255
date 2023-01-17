@@ -2,8 +2,8 @@
 
 <ul>
     <li> I'm currently studying on - <a href="https://github.com/Kenzie-Academy-Brasil-Developers">Kenzie Academy Brasil</a></li>
-    <li> I'm currently learning - <img align="center" alt="Node icon" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> - <img align="center" alt="Express icon" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"> - <img align="center" alt="postgresql icon" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> - <img align="center" alt="Docker icon" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></li>
-    <li> Ask me about - Javascript, Typescript, React, NodeJS, Docker </li>
+    <li> I'm currently learning - <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> - <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></li>
+    <li> Ask me about - Javascript, Typescript, React, NodeJS, Docker, Python, Django REST Framework </li>
     <li> How to reach me 👇 </li>
 </ul>
 
@@ -33,6 +33,8 @@ About
  <img align="center" alt="Heroku icon" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"> -
  <img align="center" alt="Git icon" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> -
  <img align="center" alt="Github icon" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+ <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 
  </li>
 
